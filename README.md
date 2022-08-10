@@ -1,2 +1,2 @@
 # live-crypto
-soon
+Using Coingecko API V3 
